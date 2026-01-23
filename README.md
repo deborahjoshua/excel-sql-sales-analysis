@@ -7,9 +7,10 @@ Sales performance analysis using Excel, SQL, and dashboards to generate business
 
 ## 🔍 Key Business Insights
 
-- Baldwin Bikes generates the highest revenue, contributing the majority of total sales.
-- Mountain Bikes and Road Bikes are the top-performing categories by revenue.
-- Several high-revenue products are flagged as low stock, indicating potential inventory risk.
+- Baldwin Bikes is the highest-revenue store, contributing the largest share of total sales.
+- Mountain Bikes and Road Bikes are the top-performing product categories by revenue.
+- Several high-revenue products are flagged as low stock, indicating potential inventory risk and missed sales opportunities.
+
 
 
 ## 🧠 SQL Analysis Overview
